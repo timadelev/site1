@@ -17,7 +17,7 @@ header {
 header img {
     margin-right: 10px;
 }
-header a{
+.but{
     color: black;
     background-color: #f2d9ce;
     font-size: 20px;
