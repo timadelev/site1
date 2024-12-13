@@ -17,7 +17,16 @@ header {
 header img {
     margin-right: 10px;
 }
-
+header a{
+    color: black;
+    background-color: #f2d9ce;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
 header .link {
     color: red;
     text-decoration: none;
