@@ -53,8 +53,8 @@ main p {
 }
 
 footer {
-    background-color: black;
-    color: violet;
+    background-color: darkred;
+    color: darkviolet;
     text-align: center;
     padding: 20px;
 }
